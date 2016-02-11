@@ -84,7 +84,7 @@ libzip
 syslinux-tftpboot
 tftp
 tftp-server
--firstboot
+-gnome-initial-setup
 
 
 %end
