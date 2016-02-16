@@ -102,7 +102,7 @@ if($rpmdir!==""){
     echo "wget http://$host/kur/rpms/$rpmdir/$file\n";
   }
  }
- echo "rpm -ivh *sysconfig*.rpm \n";
+ echo "rpm -ivh *nodeconfig*.rpm \n";
 }
 
 echo "
