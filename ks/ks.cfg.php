@@ -24,7 +24,7 @@ logging --level=debug
 install
 #graphical
 text
-keyboard 'trq'
+keyboard 'en'
 url --url=http://$host/kur/mnt/$os
 zerombr
 clearpart --all --initlabel
